@@ -1,0 +1,5 @@
+{
+  "name": " AI Cricket Team Builder",
+  "description": "An application to build your dream cricket team. It uses AI to generate a pool of fictional players with detailed statistics, allowing you to view their profiles and assemble a team.",
+  "requestFramePermissions": []
+}
